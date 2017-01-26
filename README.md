@@ -27,4 +27,24 @@ Viðbótar tæki til að fá upplýsingar inn og/eða út úr tölvum.
 Hljóðnemar, lyklaborð og vefmyndavél.
 
 #####10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+Krafa 1: þarf að passa minnsta kosti alla viðeigandi leiki inná steam reikningin minn og svo forritin sem ég nota.
+Krafa 2: Spilar kröfuharða leikin "Star Citizen" án vanda. (16 GB ram)
 
+
+Mús: Roccat Kone XTD frá ELKO 9.994 ~~16.995~~ -41%, Músmotta: ADX Lava frá ELKO 994 kr
+
+Tölvu Turn: Cooler master Silencio frá tölvulistinn, 13.491
+
+Aflgjafi: Cooler master CM V 1000W frá tölvutækni 19.900
+
+Móðurborð: Asus Z170-Pro Gaming frá @tt.is, 27.855 ~~30.950~~
+
+Harðir diskar: 1TB Samsung 850 EVO SSD frá tölvutek, 49.900
+
+Skjákort: AMD Radeon RX 470 8GB frá @tt.is, 43.950
+
+Skjár: 28" frá ódýrið, 34,990
+
+Minni: 16GB frá tölvu tækni fyrir 29.900
+
+örgjörvar: Intel i5 frá @tt.is 32.450
