@@ -21,7 +21,7 @@ Hversu mikill kraft það gefur, vegna þess of lítill kraft mun stöðva tölv
 Opinn spurningar eru aðallega Já/nei svör, lokuð spurningar þurfa meiri nákvæm svör. Opinn spurning gæti verið "Hefuru reynt að endurræsa tölvunna?" og lokuð gæti verið "Hvað varstu að gera þegar vandamálið gerðist?"
 
 ###8. Hvað eru jaðartæki?
-
+Viðbótar tæki til að fá upplýsingar inn og/eða út úr tölvum.
 
 ###9. Nefndu þrjú dæmi um inntakstæki.
 
