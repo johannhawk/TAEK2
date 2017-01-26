@@ -3,7 +3,7 @@
 RAM er skammtíma vinnsluminni fyrir upplýsinga og forrit sem eru verið notuð af örgjörvan.
 
 ### 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
-
+Upplýsingar geymd í ROM eru erfiðir að breyta, ef það er einu sinni hægt til að byrja með.
 
 ###3. Hvað er fyrirbyggjandi viðhald?
 
