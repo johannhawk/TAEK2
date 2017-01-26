@@ -18,7 +18,7 @@ Hversu mikill kraft það gefur, vegna þess of lítill kraft mun stöðva tölv
 1. Skilgreina vandamálið 2. Stofna kenningu á líkleg orsök 3. Prufa kenningu til að athuga orsökin, byrjar aftur frá 2 ef það virkar ekki 4. gera áætlun til að laga vandamálið 5. Prufa tölvukerfið til að staðfesta fullvirkni og framkvæma fyrirbyggjandi aðferðir ef það er hægt 6. Skrifa niður það sem þú fann, það sem þú gerðir og svo útkomuna.
 
 ###7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
-
+Opinn spurningar eru aðallega Já/nei svör, lokuð spurningar þurfa meiri nákvæm svör. Opinn spurning gæti verið "Hefuru reynt að endurræsa tölvunna?" og lokuð gæti verið "Hvað varstu að gera þegar vandamálið gerðist?"
 
 ###8. Hvað eru jaðartæki?
 
