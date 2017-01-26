@@ -9,7 +9,7 @@ Upplýsingar geymd í ROM eru erfiðir að breyta, ef það er einu sinni hægt 
 Að viðhalda tölvu eða eitthvað annað áður enn það fær möguleika að hafa vandamál þegar þú þarfnast tölvunna.
 
 ####4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
-
+ESD er stöðurafmagn sem hefur dreifst og hefur möguleika að valda skemmdir til tölvubúnaðu, það er hægt að nota jarðtengingu, og fyrir flutningar eru sérstakar plastpokar sem vernda búnaðin frá ESD.
 
 ###5. Hvað þarf að hafa í huga við val á spennugjöfum?
 
