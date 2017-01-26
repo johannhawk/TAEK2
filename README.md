@@ -12,7 +12,7 @@ Að viðhalda tölvu eða eitthvað annað áður enn það fær möguleika að 
 ESD er stöðurafmagn sem hefur dreifst og hefur möguleika að valda skemmdir til tölvubúnaðu, það er hægt að nota jarðtengingu, og fyrir flutningar eru sérstakar plastpokar sem vernda búnaðin frá ESD.
 
 ###5. Hvað þarf að hafa í huga við val á spennugjöfum?
-
+Hversu mikill kraft það gefur, vegna þess of lítill kraft mun stöðva tölvunna og of mikið mun hafa áhrif á áreiðaleika tölvunna
 
 ###6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 
