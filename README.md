@@ -6,9 +6,9 @@ RAM er skammtíma vinnsluminni fyrir upplýsinga og forrit sem eru verið notuð
 Upplýsingar geymd í ROM eru erfiðir að breyta, ef það er einu sinni hægt til að byrja með.
 
 ###3. Hvað er fyrirbyggjandi viðhald?
+Að viðhalda tölvu eða eitthvað annað áður enn það fær möguleika að hafa vandamál þegar þú þarfnast tölvunna.
 
-
-###4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
+####4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
 
 
 ###5. Hvað þarf að hafa í huga við val á spennugjöfum?
@@ -26,5 +26,5 @@ Upplýsingar geymd í ROM eru erfiðir að breyta, ef það er einu sinni hægt 
 ###9. Nefndu þrjú dæmi um inntakstæki.
 
 
-###10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+#####10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
 
